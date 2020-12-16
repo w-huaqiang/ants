@@ -1,0 +1,9 @@
+server:
+  port: "8888"
+
+database:
+  dbuser: root
+  dbpass: root
+  dbhost: 127.0.0.1
+  dbport: 3306
+  dbname: ants
